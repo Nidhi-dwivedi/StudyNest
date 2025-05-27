@@ -63,7 +63,7 @@ A modern, feature-rich web application designed to revolutionize how students or
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/study-nest.git
+   git clone https://github.com/Nidhi-dwivedi/StudyNest.git
    ```
 
 2. Install dependencies:
