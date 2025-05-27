@@ -76,7 +76,12 @@ A modern, feature-rich web application designed to revolutionize how students or
    npm run dev
    ```
 
-4. Open [http://localhost:8080](http://localhost:8080) in your browser
+4. Deployed Demo:
+```bash
+https://taupe-eclair-3aa42e.netlify.app/
+```
+
+5. Open [http://localhost:8080](http://localhost:8080) in your browser
 
 ## 🔮 Future Roadmap
 
